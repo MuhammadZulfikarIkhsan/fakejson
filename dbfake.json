@@ -1,0 +1,31 @@
+[
+   {
+       "Name":"Room 1",
+       "Description":"Ini adalah Room 1",
+       "IconUrl":"......"
+   },
+
+   {
+       "Name":"Room 2",
+       "Description":"Ini adalah Room 2",
+       "IconUrl":"......"
+   },
+
+   {
+       "Name":"Room 3",
+       "Description":"Ini adalah Room 3",
+       "IconUrl":"......"
+   },
+   
+   {
+       "Name":"Room 4",
+       "Description":"Ini adalah Room 4",
+       "IconUrl":"......"
+   },
+   
+   {
+       "Name":"Room 5",
+       "Description":"Ini adalah Room 5",
+       "IconUrl":"......"
+   },
+]
